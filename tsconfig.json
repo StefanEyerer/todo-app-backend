@@ -1,0 +1,22 @@
+{
+    "include": ["modules.d.ts", "src"],
+    "exclude": [],
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "rootDir": "src",
+        "outDir": "dist",
+        "declaration": false,
+        "declarationMap": false,
+        "sourceMap": false,
+        "allowJs": false,
+        "checkJs": false,
+        "strict": true,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "users": [
+        {
+            "_id": "609591021bbdb9595218aaad",
+            "email": "stefan@stefan.com",
+            "username": "Stefan",
+            "password": "stefan1234"
+        },
+        {
+            "_id": "6095911255a14a82acfc4f1b",
+            "email": "susi@susi.com",
+            "username": "Susi",
+            "password": "susi1234"
+        },
+        {
+            "_id": "6095911e9555a89dd9e7c8a8",
+            "email": "michi@michi.com",
+            "username": "Michi",
+            "password": "michi1234"
+        },
+        {
+            "_id": "6095912a956fef8a614a6f31",
+            "email": "maggi@maggi.com",
+            "username": "Maggi",
+            "password": "maggi1234"
+        }
+    ],
+    "todos": [
+        {
+            "_id": "609591558d3773dcfa8fcf29",
+            "title": "Stefan Todo 1",
+            "description": "Stefan Todo Description 1",
+            "completed": false,
+            "user": "609591021bbdb9595218aaad"
+        },
+        {
+            "_id": "609591613af6fd9ba4e84598",
+            "title": "Stefan Todo 2",
+            "description": "Stefan Todo Description 2",
+            "completed": false,
+            "user": "609591021bbdb9595218aaad"
+        },
+        {
+            "_id": "6095916e93a7c8429281a574",
+            "title": "Stefan Todo 3",
+            "description": "Stefan Todo Description 3",
+            "completed": false,
+            "user": "609591021bbdb9595218aaad"
+        },
+        {
+            "_id": "60959177c6e78d2477994076",
+            "title": "Michi Todo",
+            "description": "Michi Todo Description",
+            "completed": false,
+            "user": "6095911e9555a89dd9e7c8a8"
+        },
+        {
+            "_id": "609591801fd11bbe8a04d34b",
+            "title": "Maggi Todo",
+            "description": "Maggi Todo Description",
+            "completed": false,
+            "user": "6095912a956fef8a614a6f31"
+        }
+    ]
+}
